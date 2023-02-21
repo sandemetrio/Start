@@ -25,7 +25,6 @@ def string_printer(text: str):
 
 
 def mian():
-    list_1 = ['qwe', 'qweqwe', 'aweqerq', 'dfghjkjhvcvbh']
     string_printer('Hello this is my string')
 
 if __name__ == '__main__':
